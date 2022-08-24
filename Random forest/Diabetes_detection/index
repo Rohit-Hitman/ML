@@ -1,0 +1,2 @@
+The main objective of the problem is to develop the machine learning approach to check a person is diabetic or not. Build the model with the help of 
+RandomForestClassifier algorithm and sk-learn library and got the data from kaggle. 
